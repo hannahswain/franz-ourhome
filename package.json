@@ -1,0 +1,17 @@
+{
+  "id": "ourhome",
+  "name": "OurHome",
+  "version": "1.0.0",
+  "description": "OurHome",
+  "main": "index.js",
+  "author": "Hannah Swain",
+  "repository": "https://github.com/hannahswain/franz-ourhome",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.ourhomeapp.com/#",
+    "hasDirectMessages": false,
+    "hasIndirectMessages": false,
+    "hasNotificationSound": false,
+	"hasTeamID": false
+  }
+}
